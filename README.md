@@ -30,9 +30,9 @@ I believe data is only as valuable as the decisions it informs. What I enjoy mos
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/0d886f64-234b-40fd-a179-48b2efc34b96/public_url"><img src="assets/alteryx%20designer%20core.png" width="175" alt="Alteryx Designer Core certification badge" /></a>
+<a href="https://www.credly.com/badges/0d886f64-234b-40fd-a179-48b2efc34b96/public_url"><img src="images/alteryx%20designer%20core.png" width="175" alt="Alteryx Designer Core certification badge" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=j+xIqd/T38mGYm923c2AxGFOw7qoiLqtxrSfqmnza+NSHY1s9nkJLntLTOD4tcgH"><img src="assets/tableau_data_analyst.png" width="175" alt="Tableau Certified Data Analyst badge" /></a>
+<a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=j+xIqd/T38mGYm923c2AxGFOw7qoiLqtxrSfqmnza+NSHY1s9nkJLntLTOD4tcgH"><img src="images/tableau_data_analyst.png" width="175" alt="Tableau Certified Data Analyst badge" /></a>
 
 **[Alteryx Designer Core](https://www.credly.com/badges/0d886f64-234b-40fd-a179-48b2efc34b96/public_url)** · **[Tableau Certified Data Analyst](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=j+xIqd/T38mGYm923c2AxGFOw7qoiLqtxrSfqmnza+NSHY1s9nkJLntLTOD4tcgH)**
 
