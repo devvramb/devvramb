@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Certifications
+gi
+https://github.com/devvramb/devvramb/pull/new/add-certifications 
 -->
-git 
+git "C:\Users\dev_bhatnagar\Desktop\GitHub\devvramb\README.md"
+
+Cert test
