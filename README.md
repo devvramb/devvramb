@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Certifications
-gi
-https://github.com/devvramb/devvramb/pull/new/add-certifications 
+Testing change to see 
+https://github.com/devvramb/devvramb/pull/new/add-certifications
 -->
 git "C:\Users\dev_bhatnagar\Desktop\GitHub\devvramb\README.md"
-
-Cert test
