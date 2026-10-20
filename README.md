@@ -19,4 +19,6 @@ Certifications
 Testing change to see 
 https://github.com/devvramb/devvramb/pull/new/add-certifications
 -->
-git "C:\Users\dev_bhatnagar\Desktop\GitHub\devvramb\README.md"
+Certifications
+Testing change to see 
+https://github.com/devvramb/devvramb/pull/new/add-certifications
